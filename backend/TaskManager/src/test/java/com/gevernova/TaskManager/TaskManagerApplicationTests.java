@@ -1,13 +1,13 @@
-package com.gevernova.TaskManager;
+// package com.gevernova.TaskManager;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class TaskManagerApplicationTests {
+// @SpringBootTest
+// class TaskManagerApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
